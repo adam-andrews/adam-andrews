@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @adam-andrews
-- 👀 I’m interested in fullstack developement
-- 🌍 Some of my Project and their source code
+👋 Hi, I’m @adam-andrews
+
+👀 I’m interested in fullstack developement
+
+🌍 Some of my Project and their source code
 
 Cloud Forum App
 -  https://github.com/adam-andrews/SisyphusTypescriptAmplify
